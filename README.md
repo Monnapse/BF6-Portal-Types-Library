@@ -1,6 +1,7 @@
-# BF6 TS Library
-Download the latest library [here](https)
+These TypeScript definitions are derived from materials © Electronic Arts. 
+Shared for educational and modding purposes under fair use. Not affiliated with or endorsed by EA.
 
+## Download the latest library [here](https)
 
 # Versions
 
