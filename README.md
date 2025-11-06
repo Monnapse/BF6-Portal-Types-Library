@@ -1,2 +1,7 @@
 # BF6 TS Library
-Battlefield 6 TypeScript Library
+Download the latest library [here](https)
+
+
+# Versions
+
+## ***[1.1.1.0](https)***
